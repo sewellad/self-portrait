@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADwAAAAAAAAAPAAAAAAAAAA8AAAAPD//w/wAADw8K//D/AAAPDwr///AP////D/v///////8P+////////wr///AP////Cv/w/wAADw8P//D/AAAPAAAAAA8AAAAAAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Subject 468"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAABAAABEREREA8QEA/////wHxARD/////H/EB8f//7+7+8QHx///v7/4RH////u/+/v/////u7v7+//////7v/v7//////u/v/hEf///u7u7+8QHx/////x/xAfH/////AfEBEBEREREA8QEAAAAAAAAQAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Adrianna"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
